@@ -1,6 +1,6 @@
 # New Note Diagram
 
-newNoteDiagram
+sequenceDiagram
     participant browser
     participant server
 
